@@ -12,7 +12,7 @@ El objetivo de la aplicación es servir como **simulador de entrevistas técnica
 ## Características
 
 - **7+ categorías técnicas:** Backend, Frontend, Bases de Datos, Arquitectura, Herramientas y Entornos, IA & LLMs, DevOps, Otros.
-- **689 preguntas** con nivel (Junior/Mid/Senior), respuesta corta, explicación detallada y 4 opciones de quiz.
+- **741 preguntas** con nivel (Junior/Mid/Senior), respuesta corta, explicación detallada y 4 opciones de quiz.
 - **Selección flexible:** marcar/desmarcar categorías, cantidad de preguntas (1–100) y modo de estudio.
 - **Motor SQLite cliente-side (sql.js):** la base de datos `banco_preguntas_fullstack.db` puede cargarse como fuente externa.
 - **Progreso en vivo:** barra de avance, contador de aciertos y resumen final con precisión.
